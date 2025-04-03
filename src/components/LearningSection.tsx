@@ -1,8 +1,8 @@
 import React from 'react';
 
 interface LearningTopic {
+  number: string;
   title: string;
-  icon: React.ReactNode;
   description: string;
 }
 
@@ -10,34 +10,7 @@ interface LearningSectionProps {
   topics: LearningTopic[];
 }
 
-const topics = [
-  {
-    number: "1",
-    title: "Prompting Techniques",
-    description:
-      "You must adopt the Chain of Thought Prompting techniques for any Generative AI tools to work as you desire. It is a skill to guide the LLMs to provide the best possible output. We will discuss many prompting techniques and various tools in this workshop.",
-  },
-  {
-    number: "2",
-    title: "ChatGPT",
-    description:
-      "Your ChatGPT tool is helpful in three main areas: prompt engineering, content creation, and data insights. In our workshop, you will learn all these with practical examples.",
-  },
-  {
-    number: "3",
-    title: "Zapier",
-    description:
-      "Automate without limits using tools like Zapier and Parrot.AI, from creating Zoom meeting summaries to notifying team members and having your conversational AI participate in small meetings without physical presence.",
-  },
-  {
-    number: "4",
-    title: "Video & Image Generators",
-    description:
-      "Tools like Midjourney & Runway are AI image and video generators that bring your wild imagination to life. Thus, you no longer need design or photography skills to generate posters. In our workshop, you will learn all this with practical examples.",
-  },
-];
-
-const LearningSection = () => {
+const LearningSection: React.FC<LearningSectionProps> = ({ topics }) => {
   return (
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
