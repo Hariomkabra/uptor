@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { BookOpen, Video, Zap, Image } from 'lucide-react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';

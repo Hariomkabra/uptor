@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Linkedin } from 'lucide-react';
 
 const MentorSection = () => {
