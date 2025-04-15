@@ -1,12 +1,14 @@
-## Workshop - Meghplat Skill-Building Space
-Hello! This is the Workshop section of my Meghplat project—a hands-on learning area I’ve developed as a Full Stack Developer intern. It’s a sub-project of Meghplat, live on Netlify, and I’m excited to share this interactive piece with you.
+## Courses - Meghplat Learning Hub
+Hey! This is the Courses section of my Meghplat project—a dedicated space for online tech courses I’ve built as a Full Stack Developer intern. It’s part of the bigger Meghplat ecosystem, where people can dive into learning at their own pace. It’s live on Netlify, and I’m excited to share it!
+
 ## What’s This About?
-This repo powers the Workshop page, where users can join live coding sessions and skill-building activities. It’s designed to enhance the main Meghplat experience, and I’ve loved building it to be engaging and functional.
+This repo powers the Courses page, offering a range of tech tutorials and learning paths. It’s designed to complement the main Meghplat site, giving users a focused place to upskill. I’ve enjoyed crafting this to make learning accessible and fun.
+
 ## Key Features
 
-Live Workshops: Real-time coding and learning.
-Interactive Tools: Hands-on practice for skills.
-Integration: Ties back to the main Meghplat site.
+Variety of Courses: From coding basics to advanced topics.
+User-Friendly: Easy navigation to find what you need.
+Integration: Links back to Meghplat’s main hub.
 
 ## Tech Stack
 
@@ -15,24 +17,24 @@ Deployment: Netlify
 Version Control: Git & GitHub
 
 ## Live Link
-Check out the workshops here: https://uptorr.netlify.app/
+Explore the courses here: https://uptorr.netlify.app/
 
 ## How to Run It Locally
 
-Clone the repo: https://github.com/Hariomkabra/uptor
+Clone the repo: https://github.com/Hariomkabra/uptor?tab=readme-ov-file
 
 
 ## Install dependencies:
+
 npm install
 
 
 ## Start it up:
 npm start
 
-
 Visit http://localhost:3000.
 
-Got ideas? Fork this or drop me a note—I’m open to collaboration!
+Suggestions are welcome—fork or message me!
 
 
 ## Screenshot:
