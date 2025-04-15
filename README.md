@@ -19,7 +19,7 @@ Check out the workshops here: https://workshopuptor.netlify.app/
 
 ## How to Run It Locally
 
-Clone the repo 
+Clone the repo : https://github.com/Hariomkabra/uptor
 
 
 ## Install dependencies:
