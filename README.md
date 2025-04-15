@@ -20,8 +20,8 @@ Explore the courses here: https://uptorr.netlify.app/
 ## How to Run It Locally
 
 ## Clone the repo
+https://github.com/Hariomkabra/uptor
  
-
 
 ## Install dependencies:
 npm install
@@ -35,3 +35,8 @@ Visit http://localhost:3000.
 
 
 Suggestions are welcome—fork or message me!
+
+## Screenshot:
+![image](https://github.com/user-attachments/assets/14804e7e-3520-46ae-abde-6c1c8f69a8d9)
+![image](https://github.com/user-attachments/assets/8dfd8a24-cb3e-4a91-a354-6a25cedc4869)
+
