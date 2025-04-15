@@ -15,11 +15,11 @@ Deployment: Netlify
 Version Control: Git & GitHub
 
 ## Live Link
-Check out the workshops here: https://workshopuptor.netlify.app/
+Check out the workshops here: https://uptorr.netlify.app/
 
 ## How to Run It Locally
 
-Clone the repo : https://github.com/Hariomkabra/uptor
+Clone the repo: https://github.com/Hariomkabra/uptor
 
 
 ## Install dependencies:
